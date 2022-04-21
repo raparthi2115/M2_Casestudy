@@ -7,7 +7,7 @@
 #include "Activity4.h"
 */
  * @brief Main function where the code execution starts
- * 
+ 
  * @return  Return 0 if the program completes successfully
  */
 
