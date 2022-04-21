@@ -1,15 +1,11 @@
 /**
  * @file main.c
- * @author Jyothi J Shankar ()
  * @brief project to control LED by two switches
  * @version 0.1
- * @date 2021-04-26
+ * @date 2022-04-20
  * 
- * @copyright Copyright (c) 2021
  * 
  */
-
-
  /**
   * @brief contain macros and headers
   * 
